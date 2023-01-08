@@ -19,9 +19,9 @@
    ```sh
  apt update && apt upgrade
 
- pkg install python git
+ pkg установить python git
 
- git clone https://github.com/Ivan-Zaitsev/SMSBomber300
+ git clone https://github.com/mcdrbogdanov/SMSBomber300.git
  
 
  ls
