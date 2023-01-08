@@ -1,11 +1,11 @@
 
 #   Version 12.1
 import requests, random, datetime, sys, time, argparse, os , colorama ,pickle
-from colorama import *
-from Banners import *
-from ServesSMS import *
-from Message import *
-from Function import *
+from colorama import 
+from Banners import 
+from ServesSMS import 
+from Message import 
+from Function import 
 init()
 
 os.system("title SMS-Bomber-300")
