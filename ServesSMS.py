@@ -1,7 +1,7 @@
 import os, sys
 import fake_useragent
 import requests
-from colorama import *
+from colorama import
 init()
 
 
