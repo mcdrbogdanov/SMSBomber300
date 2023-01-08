@@ -21,12 +21,12 @@
 
  pkg установить python git
 
- git clone https://github.com/mcdrbogdanov/SMSBomber300.git
+ git clone https://github.com/mcdrbogdanov/smsbom.git
  
 
  ls
 
- cd SMSBomber300
+ cd smsbom
 
  ls
 
